@@ -23,7 +23,7 @@
         <springfox.swagger2.version>2.9.2</springfox.swagger2.version>
         <springfox.fix.version>1.5.21</springfox.fix.version>
         <commons.lang.version>2.6</commons.lang.version>
-        <commons.io.version>2.5</commons.io.version>
+        <commons.io.version>2.7</commons.io.version>
     </properties>
 
 
